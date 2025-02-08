@@ -29,3 +29,4 @@
   - **Offset** → Moves the animation effect to different text sections.  
 - **Adding More Properties**:  
   - Click **Add** to include **Scale, Rotation**, or other effects in **Animator 1**.  
+YOU CAN ALSO PREVIEW ALL THE TEXT ANIMATION : after effect animation preview (search it online )/ MotionIsland.
