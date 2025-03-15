@@ -23,7 +23,7 @@ To make any layer (e.g., image, text) 3D:
 - **Important Note:** Ensure that your **Z-axis always extends out of the plane**, just like when creating the first 3D cube.
 
 🖼️ **Example Image:**
-![3D Layers](<WhatsApp Image 2025-03-14 at 10.58.42 AM.jpeg>)
+![3D Layers](<Images/WhatsApp Image 2025-03-14 at 10.58.42 AM.jpeg>)
 
 ---
 
